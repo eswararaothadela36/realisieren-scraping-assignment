@@ -1,0 +1,19 @@
+{
+    "total_records": 1100,
+    "records_by_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "missing_values": {
+        "category": 100,
+        "price": 100,
+        "rating": 100,
+        "author": 1000,
+        "tags": 1003,
+        "description": 2,
+        "availability": 100
+    },
+    "duplicate_records": 0,
+    "average_book_price": 35.07,
+    "average_book_rating": 2.92
+}
